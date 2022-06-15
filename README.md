@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jthorpe13
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning webscraping
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me through gitbub
 
